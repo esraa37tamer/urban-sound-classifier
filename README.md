@@ -9,15 +9,6 @@ with an elegant, intuitive web interface.
 
 ---
 
-## ✨ Highlights
-- 🎧 **Upload & Play** — Drop in your audio file, preview it instantly.  
-- 🤖 **Smart Predictions** — Powered by deep learning (CNNs).  
-- 📊 **Confidence Scores** — See probabilities for each sound class.  
-- 🎨 **Responsive UI** — Dark/Light theme friendly, clean, minimal design.  
-- ⚡ **One-Click App** — Just run, no configs needed.  
-
----
-
 ## 🛠️ Tech Stack
 - **Python 3.9+**  
 - [Streamlit](https://streamlit.io/) → Modern web interface  
@@ -49,3 +40,10 @@ urban-sound-classifier/
 ├── utils/                # Helper functions (feature extraction, etc.)
 ├── assets/               # Images, icons
 └── README.md             # Documentation
+---
+
+##📦 Dependencies
+
+All required libraries are listed in requirements.txt.
+Just run:
+pip install -r requirements.txt
